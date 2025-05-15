@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Social Resilience Investments Data
+message: >-
+  Data used in the development of Social resilience
+  investments to improve the feasibility of regional
+  microgrids
+type: dataset
+authors:
+  - name: Wattwatchers
+    address: 6 Middlemiss Street Lavender Bay NSW 2060 Australia
+  - name: BSGIP
+    address: >-
+      Level 3 South, Skaidrite Darius Building (formerly the
+      CSIT Building) 108 North Road ACTON ACT 2600
+abstract: >-
+  This data was collected on behalf of the South Coast
+  microgrid Reliability and Feasibility study. It contains
+  data from households in Nelligen and Tuross Head in the
+  Eurobodalla region of New South Wales
